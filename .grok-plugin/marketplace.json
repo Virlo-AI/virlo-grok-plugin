@@ -1,0 +1,19 @@
+{
+  "name": "virlo",
+  "description": "Virlo: short-form video intelligence for Grok Build — TikTok, YouTube Shorts, and Instagram Reels trends, creators, sounds, and hashtags",
+  "owner": {
+    "name": "Virlo",
+    "email": "support@virlo.ai"
+  },
+  "plugins": [
+    {
+      "name": "virlo",
+      "description": "Short-form video intelligence for TikTok, YouTube Shorts, and Instagram Reels via Virlo's hosted MCP server.",
+      "category": "media",
+      "source": { "type": "local", "path": "./" },
+      "homepage": "https://virlo.ai",
+      "keywords": ["virlo", "virlo mcp", "virlo trends", "virlo creator lookup", "virlo niche research"],
+      "domains": ["virlo.ai", "dev.virlo.ai"]
+    }
+  ]
+}

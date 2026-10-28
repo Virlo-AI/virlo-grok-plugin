@@ -1,0 +1,25 @@
+{
+  "name": "virlo",
+  "displayName": "Virlo",
+  "version": "0.4.3",
+  "description": "Short-form video intelligence for Grok Build via Virlo's hosted MCP server at dev.virlo.ai. Find emerging trends and breakout videos in any niche on TikTok, YouTube Shorts, and Instagram Reels, analyze why one video performed, look up any creator with their outlier videos, posting cadence, and audience demographics, track breakout sounds, trending hashtags, and proven opening hooks, and run one-shot or recurring niche research agents. Results rank by how far a video outperformed its own creator's baseline, so a genuine breakout from a small account is not buried under a large account's view count. Read-only: Virlo never posts, schedules, or touches your own social accounts. Sign in with your Virlo account on first connect.",
+  "author": {
+    "name": "Virlo",
+    "email": "support@virlo.ai",
+    "url": "https://virlo.ai"
+  },
+  "homepage": "https://dev.virlo.ai/docs/mcp",
+  "repository": "https://github.com/Virlo-AI/virlo-grok-plugin",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://virlo.ai/legal/privacy-policy",
+  "termsOfServiceUrl": "https://virlo.ai/legal/terms-of-service",
+  "supportUrl": "https://virlo.ai/support",
+  "keywords": [
+    "virlo",
+    "virlo mcp",
+    "virlo trends",
+    "virlo creator lookup",
+    "virlo niche research"
+  ],
+  "logo": "assets/logo.svg"
+}
